@@ -1,4 +1,4 @@
-Brick Blaster:	A test Minecraft clone. Uses OpenGL
+Brick Blaster:	A test Minecraft clone. Uses OpenGL.
 
 Current version: 20200526 1 interaction build1
 
